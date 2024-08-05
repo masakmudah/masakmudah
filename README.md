@@ -1,8 +1,8 @@
 # 🍳 Masakmudah
 
-**Masakmudah** helps you discover captivating tourist destinations and culinary delights in Nusantara.
+**Masakmudah** helps you discover captivating tourist destinations and culinary delights in Masakmudah.
 
-Nusaventure, short for **Nusantara Adventure**, is a platform that inspires exploration of various legendary tourist spots, delicious culinary varieties, interesting activities and events, understanding the ecosystem and communities, and more.
+Masakmudah, short for **Masakmudah Adventure**, is a platform that inspires exploration of various legendary tourist spots, delicious culinary varieties, interesting activities and events, understanding the ecosystem and communities, and more.
 
 ## 🌟 Features
 
@@ -18,29 +18,27 @@ Nusaventure, short for **Nusantara Adventure**, is a platform that inspires expl
 
 ## 🔗 Links
 
-Nusaventure is live at <https://nusaventure.com>  
-Backend API is at <https://api.nusaventure.com>
+Masakmudah is live at <https://masakmudah.com>  
+Backend API is at <https://api.masakmudah.com>
 
 Repositories:
 
-- General: <https://github.com/nusaventure/nusaventure>
-- Backend: <https://github.com/nusaventure/nusaventure-backend>
-- Frontend: <https://github.com/nusaventure/nusaventure-frontend>
+- General: <https://github.com/masakmudah/masakmudah>
+- Backend: <https://github.com/masakmudah/masakmudah-backend>
+- Frontend: <https://github.com/masakmudah/masakmudah-frontend>
 
 ## 🔎 Inspirations
 
-- [The Tallinn Design Map](http://tallinn.design)
-- [Wanderlog](https://wanderlog.com)
-- [Foursquare](https://foursquare.com)
+- [Cookpad](https://cookpad.com)
 
 ## 🎨 UI Designs
 
-Look at [Figma](https://www.figma.com/design/hcYwfXGBenPH999pNQJ7wl/Nusaventure)
+Look at [Figma](https://www.figma.com/design/hcYwfXGBenPH999pNQJ7wl/masakmudah)
 
 ## 🔀 Entity Relationship Diagram (ERD)
 
-Look at [dbdocs](https://dbdocs.io/nusaventure.com/nusaventure?view=relationships)
+Look at [dbdocs](https://dbdocs.io/masakmudah.com/masakmudah?view=relationships)
 
 ## ⚡ API Specification
 
-Look at [SwaggerUI](https://api.nusaventure.com/ui)
+Look at [SwaggerUI](https://api.masakmudah.com/ui)
