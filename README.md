@@ -15,7 +15,7 @@ Nusaventure, short for **Nusantara Adventure**, is a platform that inspires expl
 - [Rido Atmanto](https://github.com/ridoatmanto) (Team Lead, Backend Developer)
 - [Chian Yung](https://github.com/chianyungcode) (UI/UX Designer, Frontend Developer)
 - [M Sidiq Cahyono](https://github.com/sidiqcahyono83) (Backend Developer)
-- [Sahid](https://github.com/josapratama) (UI/UX Designer, Frontend Developer)
+- [Sahid](https://github.com/shiwilsahid) (UI/UX Designer, Frontend Developer)
 
 ## 🔗 Links
 
