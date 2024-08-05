@@ -1,16 +1,17 @@
 # 🍳 Masakmudah
 
-**Masakmudah** helps you discover captivating tourist destinations and culinary delights in Masakmudah.
+**Masakmudah** believe everyone can cook own food.
 
-Masakmudah, short for **Masakmudah Adventure**, is a platform that inspires exploration of various legendary tourist spots, delicious culinary varieties, interesting activities and events, understanding the ecosystem and communities, and more.
+Masakmudah is a platform that inspires exploration of various easy recipe to follow and recreate it by your own.
 
 ## 🌟 Features
 
-- Explore places: Discover hidden gems and top attractions with detailed reviews, ratings, and insider tips. Your next adventure awaits!
-- Track travel history: Effortlessly document your journeys, log visited places, and create a digital scrapbook of your travels. Cherish every moment!
-- Social sharing: Share your adventures, connect with fellow travelers, and inspire the world with your stories and photos. Travel together!
+- Share your recipe: Inspire the world with your recipe and own photos. Lets cook together!
+- Explore recipe: Discover hidden gems recipe. Your next taste awaits!
+- Save your interesting recipe: Effortlessly saving favourite recipe. Cherish every dream taste!
 
 ## 🤝 Team
+
 - [Rido Atmanto](https://github.com/ridoatmanto) (Team Lead, Full Stack Developer)
 - [Chian Yung](https://github.com/chianyungcode) (Team Lead, UI/UX Designer, Frontend Developer)
 - [Sidiq Cahyono](https://github.com/sidiqcahyono83) (Full Stack Developer + Backend Developer)
