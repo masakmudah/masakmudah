@@ -12,11 +12,10 @@ Nusaventure, short for **Nusantara Adventure**, is a platform that inspires expl
 
 ## 🤝 Team
 
-- [Aziz Ramdan Kurniawan](https://github.com/azizramdan) (Team Lead, Full Stack Developer)
-- [Brilliant Hanif Almubarak](https://github.com/hanifptw) (UI/UX Designer, Frontend Developer)
-- [Ismail Al Faruqi](https://github.com/mailfaruqi) (Frontend Developer)
-- [Josa Pratama](https://github.com/josapratama) (Backend Developer)
-- [Muhammad Yusuf Untung Wahyudi](https://github.com/myusufuw) (Full Stack Developer)
+- [Rido Atmanto](https://github.com/ridoatmanto) (Team Lead, Backend Developer)
+- [Chian Yung](https://github.com/chianyungcode) (UI/UX Designer, Frontend Developer)
+- [M Sidiq Cahyono](https://github.com/sidiqcahyono83) (Backend Developer)
+- [Sahid](https://github.com/josapratama) (UI/UX Designer, Frontend Developer)
 
 ## 🔗 Links
 
