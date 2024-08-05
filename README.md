@@ -30,7 +30,7 @@ Repositories:
 
 ## 🔎 Inspirations
 
-- [Cookpad](https://cookpad.com)
+Thanks to [Cookpad](https://cookpad.com)
 
 ## 🎨 UI Designs
 
