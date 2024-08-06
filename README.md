@@ -1,6 +1,6 @@
 # 🍳 Masakmudah
 
-**Masakmudah** believe everyone can cook own food.
+**Masakmudah**, _Everyone can cooking!_.
 
 Masakmudah is a platform that inspires exploration of various easy recipe to follow and recreate it by your own.
 
