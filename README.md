@@ -34,7 +34,7 @@ Thanks to [Cookpad](https://cookpad.com)
 
 ## 🎨 UI Designs
 
-Look at [Figma](https://www.figma.com/design/hcYwfXGBenPH999pNQJ7wl/masakmudah)
+Look at [Figma](https://www.figma.com/design/HYdvwtIobp0A5Y8jD37AlB/MasakMudah-Website?node-id=1-4&t=efeJF5bwMRPCYXbk-1)
 
 ## 🔀 Entity Relationship Diagram (ERD)
 
