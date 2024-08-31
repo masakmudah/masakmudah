@@ -35,7 +35,8 @@ Thanks to [Cookpad](https://cookpad.com)
 ## 🎨 UI Designs
 
 Look at [Figma](https://www.figma.com/design/HYdvwtIobp0A5Y8jD37AlB/MasakMudah-Website?node-id=1-4&t=efeJF5bwMRPCYXbk-1)
-Presentasi slide [Figma}(https://www.figma.com/slides/D38KX5Yvm5ZXIT3hEfX0ct/Masakmudah-Presentation-Slide?node-id=2-346&t=PIOE4yRKfXfL8CZV-1)
+
+Presentasi slide [Figma](https://www.figma.com/slides/D38KX5Yvm5ZXIT3hEfX0ct/Masakmudah-Presentation-Slide?node-id=2-346&t=PIOE4yRKfXfL8CZV-1)
 
 ## 🔀 Entity Relationship Diagram (ERD)
 
